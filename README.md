@@ -8,7 +8,7 @@ The project was developed and tested for Android. Please feel free to contribute
 
 Note: The codebase was developed in fast iterations while performing user research. There are instances where it can be improved and modularized. This is especially true for the data model and implementation of firebase auth and cloud firestore. If you come across such cases and want to contribute improvements, consider opening an issue or PR.
 
-*Features
+Features
   SignIn/SignUp
   ForgotPassword
   SplashScreen
