@@ -1,16 +1,17 @@
-# firebase_blog
+Blog_App Flutter
 
-A new Flutter application.
+BlogApp is an open source Flutter-based template for a beginner to start with Firebase application. It has been designed to use Email SignIn SignUp and uploading tasks as backend.
 
-## Getting Started
+The project had started out with an intent to become a mobile interface for Blog(Uploading title and desccription). Over time, it refined to become a more focused business assistant application. For more details, check out this blog post announcing the project's release.
 
-This project is a starting point for a Flutter application.
+The project was developed and tested for Android. Please feel free to contribute and open PRs for iOS support.
 
-A few resources to get you started if this is your first Flutter project:
+Note: The codebase was developed in fast iterations while performing user research. There are instances where it can be improved and modularized. This is especially true for the data model and implementation of firebase auth and cloud firestore. If you come across such cases and want to contribute improvements, consider opening an issue or PR.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Features
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Invoice generator
+  Party (supplier/customer) statement generator
+  Invoice/voucher viewer
+  Business dashboard
+  Report screens for account payable, receivables, stock items
